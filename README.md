@@ -1,41 +1,35 @@
-# Project Title
+# Building on Avalanche - ETH + AVAX
 
-Simple overview of use/purpose.
+This is a code which explains in brief, the functionalities of DEGEN tokens.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This program is for creating Degen tokens and exploring its various functionalities and implementation.
 
-## Getting Started
+## Running the code
 
-### Installing
+You can either fork the repo or download the zip file under code.
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+After downloading the code , you can 
+try running some of the following tasks:
 
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.js
 ```
-code blocks for commands
-```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+The above command will deploy the smart contract.
 
 ## Authors
 
-Contributors names and contact info
+ADITYA RAJU
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+adrocxsmma@gmail.com
 
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
