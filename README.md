@@ -48,7 +48,7 @@ SNOWTRACE_API_KEY=
 ```
 The above should be present in the .env file. Provide your wallet private key and the Snowtrace API key for your transactions to be deployed and verified on the testnet.
 
-## Getting the AVX from Avalnche faucet
+### Getting the AVX from Avalnche faucet
 
 To run the above solidity smart contract, we need AVX tokens. So we go to the Avalanche testnet faucet and request for AVX tokens on the Fuji(C-Chain) network.
 
