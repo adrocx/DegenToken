@@ -4,7 +4,12 @@ This is a code which explains in brief, the functionalities of DEGEN tokens.
 
 ## Description
 
-This program is for creating Degen tokens and exploring its various functionalities and implementation.
+This program is for creating Degen tokens and exploring its various functionalities and implementation. It allows the user to mint, burn, transfer tokens and also redeem the in-game items. In this solidity contract, the in-game items are:
+1. Official DEGEN Box
+2. Official DEGEN Hoddie
+3. Official DEGEN Cap
+
+We deploy this ERC20 token on the Avalanche network for Degen Gaming.
 
 ## Running the code
 
